@@ -1,3 +1,5 @@
-# odin-recipes
+# Odin Recipes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-fbbsfy)
+This project is to do a website that holds a bunch of recipes, made with plain
+HTML, CSS and vanilla JS.
+
